@@ -11,21 +11,17 @@ const projects = [
     tags: ["Flutter", "Node.js", "MongoDB"],
   },
   {
-    title: "E-Learning Platform",
-    description:
-      "Interactive learning platform with real-time collaboration features and progress tracking.",
-    image:
-      "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80",
+    title: "project2",
+    description: "",
+    image: "",
     demoUrl: "https://example.com/demo",
     githubUrl: "https://github.com/example",
     tags: ["React", "TypeScript", "Node.js"],
   },
   {
-    title: "Health Tracking App",
-    description:
-      "Mobile application for tracking health metrics with data visualization and insights.",
-    image:
-      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80",
+    title: "project3",
+    description: "",
+    image: "",
     demoUrl: "https://example.com/demo",
     githubUrl: "https://github.com/example",
     tags: ["Flutter", "Firebase", "ML Kit"],
